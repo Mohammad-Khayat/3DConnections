@@ -1,0 +1,27 @@
+*
+{
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden;
+}
+
+html,
+body
+{
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden;
+}
+
+.webgl
+{
+    background: #1F186C;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+#container{
+    background-color: #201A6E;
+
+
+}

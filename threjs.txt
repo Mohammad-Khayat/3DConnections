@@ -1,0 +1,16 @@
+# Vector3
+    /position
+mesh.position.length()  //  retrun object langth from scence
+mesh.position.distanceTo( position ) return object distance of argument position
+    /scale
+    mesh.scale.set(x,y,z) // set scale to object
+    /Rotation
+    mesh.scale.rotation.set(x,y,z)//use Math.Pi * (part of 1degree)
+
+
+
+# AxesHelper
+new THREE.AxesHelper( length ); // display x,y,z axes;
+
+#camera
+camera.lookAt(Vector3.position)
